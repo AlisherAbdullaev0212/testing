@@ -1,21 +1,21 @@
 # testing
-1.Регистрация пользователя
-1.1 Открыть сайт (https://angular.realworld.io)
-1.2 Нажать на "Sign Up"
-1.3 Заполнить форму регистрации (ввести уникальный email, пароль и т.д.)
-1.4 Нажать "Sign Up" для завершения регистрации
-1.5 Подтвердить успешную регистрацию
+1.User registration
+1.1 Open the website (https://angular.realworld.io)
+1.2 Click on "Sign Up"
+1.3 Fill out the registration form (enter a unique email, password, etc.)
+1.4 Click "Sign Up" to complete registration
+1.5 Confirm successful registration
 
-2.Создание статьи
-2.1 Авторизоваться под созданным пользователем (ввести email и пароль)
-2.2 Перейти на страницу создания статьи
-2.3 Заполнить форму создания статьи (ввести уникальный заголовок, описание, теги и т.д.)
-2.4 Нажать "Publish Article" для публикации статьи
-2.5 Подтвердить успешное создание статьи
+2.Creating an article
+2.1 Log in using the created user (enter email and password)
+2.2 Go to the article creation page
+2.3 Fill out the article creation form (enter a unique title, description, tags, etc.)
+2.4 Click "Publish Article" to publish the article
+2.5 Confirm successful article creation
 
-3.Проверка наличия статьи в Global Feed
-3.1 Перейти на главную страницу
-3.2 Проверить, что созданная статья отображается в Global Feed
-3.3 Убедиться, что информация о статье соответствует созданной
-3.4 Ожидаемый результат:
-3.5 Пользователь успешно зарегистрирован, создал статью и статья отображается в Global Feed.
+3.Checking for an article in the Global Feed
+3.1 Go to home page
+3.2 Check that the created article is displayed in the Global Feed
+3.3 Make sure that the information about the article matches the one created
+3.4 Expected result:
+3.5 The user has successfully registered, created an article and the article is displayed in the Global Feed.
